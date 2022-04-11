@@ -35,7 +35,7 @@ header nav ul li{
     display: inline;
 }
 
-/*formatting for hero section*/
+/*formatting for homepage hero section*/
 .hero{
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
