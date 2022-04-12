@@ -5,6 +5,12 @@
     box-sizing: border-box;
   }
 
+/*formatting for body*/
+body{
+    color: #39a6b2;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
 /*formatting for header*/
 header{
     padding: 20px 35px;
@@ -84,12 +90,6 @@ header nav ul li{
     border: none;
     padding: 10px 20px;
     font-size: 16px;
-}
-
-/*formatting for body element*/
-body{
-    color: #39a6b2;
-    font-family: Helvetica, Arial, sans-serif;
 }
 
 /*sections general formatting*/
