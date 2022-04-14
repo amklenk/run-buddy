@@ -41,6 +41,12 @@ header nav ul li{
     display: inline;
 }
 
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+  }
+
 /*formatting for homepage hero section*/
 .hero{
     background-image: url("../images/hero-bg.jpg");
