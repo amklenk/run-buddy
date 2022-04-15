@@ -12,3 +12,5 @@ https://amklenk.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Amanda Klenk
+
+### ©️2019 Run Buddy, Inc 
